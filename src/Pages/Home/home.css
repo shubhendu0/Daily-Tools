@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(90, 26, 117);
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    background-color: rgb(90, 26, 117);
+}
+
+h3{
+    color: azure;
+}

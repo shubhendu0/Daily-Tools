@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,700&display=swap');
+
+#stopwatch *{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+#stopwatch h2{
+    font-size: 80px;
+}
+
+#stopwatch div{
+    display: flex;
+    justify-content: center;
+}
+
+#btn button{
+    background-color: rgb(90, 26, 117);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 25px;
+    width:90px;
+    color: aliceblue;
+}
+
+#btn button:hover{
+    background-color: rgb(186, 117, 250);
+}
